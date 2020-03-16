@@ -13,5 +13,13 @@
     "watch": "nodemon server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nessacor16/Heroku.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nessacor16/Heroku/issues"
+  },
+  "homepage": "https://github.com/nessacor16/Heroku#readme"
 }
